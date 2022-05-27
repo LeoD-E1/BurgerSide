@@ -20,8 +20,9 @@ const getDataFromDatabase = async () => {
 
 const renderCards = (data) => {
   data.Base.map((item) => {
-    product.querySelector("h3").textContent = item.name;
     product.querySelector("img").setAttribute("src", item.imageUrl);
+    product.querySelector("h3").textContent = item.name;
+    product.querySelector("p").textContent = item.description;
     product.querySelector("h5").textContent = item.price;
     const clone = product.cloneNode(true);
     fragment.appendChild(clone);
