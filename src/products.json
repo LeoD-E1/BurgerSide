@@ -1,0 +1,74 @@
+{
+  "Base": [
+    {
+      "option": 1,
+      "imageUrl": "https://cdn.pixabay.com/photo/2016/03/05/23/02/barbecue-1239434_960_720.jpg",
+      "name": "Carne",
+      "price": 200
+    },
+    {
+      "option": 2,
+      "imageUrl": "https://cdn.pixabay.com/photo/2016/02/14/10/39/chicken-1199243_960_720.jpg",
+      "name": "Pollo",
+      "price": 150
+    },
+    {
+      "option": 3,
+      "imageUrl": "https://media.istockphoto.com/photos/source-of-fibre-plant-based-vegan-soya-protein-burgers-meat-free-picture-id1249967801?k=20&m=1249967801&s=612x612&w=0&h=Uv2hKFohogYBFDQD7CW4WIZPWmCEVwgfpCtCxj9_ra4=",
+      "name": "Veggie",
+      "price": 100
+    }
+  ],
+  "Pan": [
+    {
+      "option": 1,
+      "imageUrl": "https://images.pexels.com/photos/2942327/pexels-photo-2942327.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "blanco",
+      "price": 50
+    },
+    {
+      "option": 2,
+      "imageUrl": "https://images.pexels.com/photos/7693946/pexels-photo-7693946.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "negro",
+      "price": 60
+    },
+    {
+      "option": 3,
+      "imageUrl": "https://imgs.search.brave.com/Qy4LGpcZE0ZpJ3MmJva1cz_EeG0sXL_EENdy8mkvmUU/rs:fit:800:535:1/g:ce/aHR0cHM6Ly9ibG9n/LmRpYS5lcy93cC1j/b250ZW50L3VwbG9h/ZHMvMjAxNi8wMy9Q/YW4taW50ZWdyYWwt/c2luLWdsdXRlbi1j/b24tVGhlcm1vbWl4/LmpwZw",
+      "name": "Pan sin gluten",
+      "price": 75
+    }
+  ],
+  "Adicional": [
+    {
+      "option": 1,
+      "name": "Queso",
+      "price": 20
+    },
+    {
+      "option": 2,
+      "name": "cebolla",
+      "price": 15
+    },
+    {
+      "option": 3,
+      "name": "mayonesa",
+      "price": 5
+    },
+    {
+      "option": 4,
+      "name": "Lechuga",
+      "price": 10
+    },
+    {
+      "option": 5,
+      "name": "Mostaza",
+      "price": 5
+    },
+    {
+      "option": 6,
+      "name": "Tomate",
+      "price": 20
+    }
+  ]
+}
